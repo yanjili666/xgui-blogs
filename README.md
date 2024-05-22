@@ -1,4 +1,3 @@
-<p align="center"><a href="http://www.boblog.com" target="_blank" rel="noopener noreferrer"><img width="234" src="https://cdn.boblog.com/boblog.png" alt="logo"></a></p>
 
 ## Project Introduction
 This project aims to establish a comprehensive blog system, covering server-side APIs, management backends, front-end websites, and deployment. It mainly uses Node.js and the Koa2 framework for server-side API development.
